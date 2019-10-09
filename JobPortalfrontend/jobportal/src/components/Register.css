@@ -1,0 +1,32 @@
+.container {
+    width: 500px;
+    clear: both;
+  }
+  
+  .container input {
+    width: 100%;
+    clear: both;
+  }
+ #classy{
+    background:url("https://images.unsplash.com/photo-1491975474562-1f4e30bc9468?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1150&q=100");
+    width: 65%;
+
+ }
+ #addone{
+   background-color: white;
+   color: black;
+   margin-bottom: 30px;
+   margin-left: 850px !important;
+ }
+ #addone::placeholder{
+   font-weight: 100;
+   color : black;
+ }
+ #next_head{
+   color : black;
+   margin-bottom: 30px;
+   margin-left: 850px !important
+ }
+ #addone1{
+   margin-left: 1050px;
+ }

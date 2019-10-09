@@ -1,0 +1,18 @@
+#homepage{
+    width: 60rem;
+    margin-top: 3rem;
+}
+#above{
+    background-image: url("http://www.slogold.net/img/blur-bg.jpg");
+    height: 1000px;
+    
+}
+#overall{
+    background-color: #eee;
+    height: auto;
+}
+#txtbox{
+    height: 37px;
+    width : 300px;
+}
+

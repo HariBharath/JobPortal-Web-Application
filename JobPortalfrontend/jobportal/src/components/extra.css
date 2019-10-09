@@ -1,0 +1,19 @@
+#extra{
+    background-color: white;
+    height: auto;
+}
+#creation{
+    color: black;
+    font-weight: 200;
+    font-size: 60px;
+    margin-top: -1vh;
+}
+#creation1{
+    color:black;
+    font-weight: 200;
+    font-size: 4.5vh;
+}
+#sym{
+    font-size: 8vh;
+    color: black;
+}

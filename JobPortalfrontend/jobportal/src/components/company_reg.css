@@ -1,0 +1,9 @@
+.some {
+    width: 500px;
+    clear: both;
+  }
+  
+  .some input {
+    width: 100%;
+    clear: both;
+  }

@@ -1,0 +1,20 @@
+#pot{
+    background-color: black ;
+    width : auto;
+    height : 300px;
+}
+#text{
+    color: white;
+    margin-top: 90px;
+    font-weight: 200;
+    font-size: 70px;
+    font-family: 'Noto Sans TC', sans-serif;
+    
+
+}
+#sub{
+    color: white;
+    font-size: 30px;
+    font-weight: 100;
+
+}
